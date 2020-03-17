@@ -1,0 +1,14 @@
+name = "Hello World"
+description = "My first mod"
+author = "Mastah Kebab"
+version = "0.0.1"
+forumthreat = "/"
+--icon_atlas = "modicon.xml"
+--icon = "modicon.tex"
+client_only_mod = true
+dont_starve_compatible = true
+reign_of_giants_compatible = true
+shipwrecked_compatible = true
+hamlet_compatible = true
+dst_compatible = true
+api_version = 10
